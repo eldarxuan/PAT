@@ -4,7 +4,8 @@ using namespace std;
 int main()
 {
     vector<int>vi;
-    int a,zero;
+    char a,zero;
+    //int a,zero;
     int a1 = 0;
     for(int i = 0; i < 10; i++){
         cin >> a;

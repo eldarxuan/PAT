@@ -4,8 +4,6 @@
 using namespace std;
 
 int main() {
-    int a = 0;
-    a = "N";
-    printf("%d",a);
+    cout << "\\";
     return 0; 
 }
